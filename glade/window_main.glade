@@ -42,7 +42,7 @@
               <object class="GtkMenuItem">
                 <property name="visible">True</property>
                 <property name="can-focus">False</property>
-                <property name="label" translatable="yes">_Enctrypt qr code</property>
+                <property name="label" translatable="yes">_Encrypt qr code</property>
                 <property name="use-underline">True</property>
                 <child type="submenu">
                   <object class="GtkMenu">
@@ -200,7 +200,7 @@
                 <property name="margin-end">20</property>
                 <property name="margin-top">9</property>
                 <property name="margin-bottom">10</property>
-                <property name="label" translatable="yes">enter de message to encrypt</property>
+                <property name="label" translatable="yes">enter the message to encrypt</property>
               </object>
               <packing>
                 <property name="expand">False</property>

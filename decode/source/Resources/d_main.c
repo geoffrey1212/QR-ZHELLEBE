@@ -26,7 +26,7 @@ void write_file(char *string)
 
     if (file != NULL)
     {
-        fprintf(file, "%s", string);
+        fprintf(file, "%s\n", string);
         fclose(file);
     }
 }
